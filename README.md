@@ -65,8 +65,8 @@ The laser cutting used aprox. 3 1.6x2m boards.
 
 The final circuit looked like this:
 
+<img width="500" alt="Screenshot" src="https://github.com/albertfares/MIT/assets/91048303/8dc2e7fd-fdc0-41b5-9533-5844e450f38b">
 
-![2023-06-03 23 31 06](https://github.com/albertfares/MIT/assets/91048303/8dc2e7fd-fdc0-41b5-9533-5844e450f38b)
 
 
 
