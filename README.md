@@ -49,3 +49,18 @@ H([Antenna]) --- G
 
 
 
+
+# Circuit
+
+## Design
+
+The design of the circuit was made using Fusion360.
+The main design of the circuit is shown below.
+
+<img width="787" alt="Screenshot 2023-06-03 at 23 25 17" src="https://github.com/albertfares/MIT/assets/91048303/db82935b-65e4-4a8b-9394-8703e0a1d685">
+
+
+
+
+
+
