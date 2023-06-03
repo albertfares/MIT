@@ -76,6 +76,24 @@ The final circuit looked like this:
 <img width="500" alt="Screenshot" src="https://github.com/albertfares/MIT/assets/91048303/8dc2e7fd-fdc0-41b5-9533-5844e450f38b">
 
 
+# Phone Holder
+
+## MDF structure
+
+To hold the iPhone used to track the cars 3 meters above the ground, we had to be creative and make a phone holder that was attached to the railing of the DLL's first floor. The structure was laser-cut on 1cm MDF boards and was designed on FUSION 360 (.dxf design file available on the repo).
+To make the phone holder strong and reliable, a puzzle-like design was used between pieces and the connections were strenghened by wood glue.
+
+<img width="288" alt="Screenshot 2023-05-05 at 18 36 35" src="https://github.com/albertfares/MIT/assets/91048303/090386d1-1787-459b-bdd3-2d1228442d7a">
+
+## 3D printed holder
+
+To hold the iPhone in place, a custom designed holder was 3D printed and mounted on the MDF structure. 
+The .f3d file available on the repo was made for an iPhone 14 Pro Max.
+
+
+<img width="814" alt="Screenshot 2023-05-02 at 23 26 18" src="https://github.com/albertfares/MIT/assets/91048303/0c44914e-51b8-4198-b930-41e060706888">
+
+<img width="500" alt="Screenshot 2023-05-03 at 00 00 28" src="https://github.com/albertfares/MIT/assets/91048303/4162ca99-b8e8-41b5-ae65-a94a9b4185e6">
 
 
 
