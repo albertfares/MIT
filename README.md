@@ -47,6 +47,14 @@ E -- GND --- G
 H([Antenna]) --- G
 ```
 
+## Color sensor calibration
+
+The color sensor being sensible to the lightning conditions and itss distance to its target, it needed to be calibrated to be as precise as possible. The code of the calibration is available on the repo.
+
+A dediacated server was made at the beginning of testing and showed the performace of the sensor as seen below.
+
+
+https://github.com/albertfares/MIT/assets/91048303/1cee8a10-9c01-46f1-8fb0-2bf0ebdcb486
 
 
 
@@ -66,6 +74,8 @@ The laser cutting used aprox. 3 1.6x2m boards.
 The final circuit looked like this:
 
 <img width="500" alt="Screenshot" src="https://github.com/albertfares/MIT/assets/91048303/8dc2e7fd-fdc0-41b5-9533-5844e450f38b">
+
+
 
 
 
