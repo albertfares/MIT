@@ -59,6 +59,15 @@ The main design of the circuit is shown below.
 
 <img width="500" alt="Screenshot 2023-06-03 at 23 25 17" src="https://github.com/albertfares/MIT/assets/91048303/db82935b-65e4-4a8b-9394-8703e0a1d685">
 
+We then chose to laser cut the circuit on 3mm MDF boards, so we had to make a puzzle like design for both cutting and easier transportation and storage. The full .dxf file is included in the repo.
+
+The laser cutting used aprox. 3 1.6x2m boards.
+
+The final circuit looked like this:
+
+
+![2023-06-03 23 31 06](https://github.com/albertfares/MIT/assets/91048303/8dc2e7fd-fdc0-41b5-9533-5844e450f38b)
+
 
 
 
