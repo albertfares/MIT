@@ -54,7 +54,9 @@ The color sensor being sensible to the lightning conditions and itss distance to
 A dediacated server was made at the beginning of testing and showed the performace of the sensor as seen below.
 
 
-https://github.com/albertfares/MIT/assets/91048303/1cee8a10-9c01-46f1-8fb0-2bf0ebdcb486
+
+https://github.com/albertfares/MIT/assets/91048303/5f766e19-ce79-4871-9765-ed46f7992c80
+
 
 
 
@@ -65,7 +67,8 @@ https://github.com/albertfares/MIT/assets/91048303/1cee8a10-9c01-46f1-8fb0-2bf0e
 The design of the circuit was made using Fusion360.
 The main design of the circuit is shown below.
 
-<img width="500" alt="Screenshot 2023-06-03 at 23 25 17" src="https://github.com/albertfares/MIT/assets/91048303/db82935b-65e4-4a8b-9394-8703e0a1d685">
+<img width="787" alt="Screenshot 2023-06-03 at 23 25 17" src="https://github.com/albertfares/MIT/assets/91048303/55852850-a589-48bd-844e-8817d8a7ee6a">
+
 
 We then chose to laser cut the circuit on 3mm MDF boards, so we had to make a puzzle like design for both cutting and easier transportation and storage. The full .dxf file is included in the repo.
 
@@ -73,7 +76,8 @@ The laser cutting used aprox. 3 1.6x2m boards.
 
 The final circuit looked like this:
 
-<img width="500" alt="Screenshot" src="https://github.com/albertfares/MIT/assets/91048303/8dc2e7fd-fdc0-41b5-9533-5844e450f38b">
+![2023-06-03 23 31 06](https://github.com/albertfares/MIT/assets/91048303/c6707dd3-dd16-413d-b16a-034877977707)
+
 
 
 # Phone Holder
@@ -83,17 +87,19 @@ The final circuit looked like this:
 To hold the iPhone used to track the cars 3 meters above the ground, we had to be creative and make a phone holder that was attached to the railing of the DLL's first floor. The structure was laser-cut on 1cm MDF boards and was designed on FUSION 360 (.dxf design file available on the repo).
 To make the phone holder strong and reliable, a puzzle-like design was used between pieces and the connections were strenghened by wood glue.
 
-<img width="288" alt="Screenshot 2023-05-05 at 18 36 35" src="https://github.com/albertfares/MIT/assets/91048303/090386d1-1787-459b-bdd3-2d1228442d7a">
+<img width="288" alt="Screenshot 2023-05-05 at 18 36 35" src="https://github.com/albertfares/MIT/assets/91048303/1beb47fd-063a-4e7b-90ab-96954f58b324">
+
+
 
 ## 3D printed holder
 
 To hold the iPhone in place, a custom designed holder was 3D printed and mounted on the MDF structure. 
 The .f3d file available on the repo was made for an iPhone 14 Pro Max.
 
+<img width="814" alt="Screenshot 2023-05-02 at 23 26 18" src="https://github.com/albertfares/MIT/assets/91048303/d1c9ad13-9b1d-4fc5-b86a-61a3a9c408d6">
 
-<img width="814" alt="Screenshot 2023-05-02 at 23 26 18" src="https://github.com/albertfares/MIT/assets/91048303/0c44914e-51b8-4198-b930-41e060706888">
+<img width="500" alt="Screenshot 2023-05-03 at 00 00 28" src="https://github.com/albertfares/MIT/assets/91048303/21e8f230-68fd-46d9-ae8a-90a7625ebbf0">
 
-<img width="500" alt="Screenshot 2023-05-03 at 00 00 28" src="https://github.com/albertfares/MIT/assets/91048303/4162ca99-b8e8-41b5-ae65-a94a9b4185e6">
 
 
 
