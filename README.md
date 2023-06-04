@@ -101,9 +101,14 @@ The .f3d file available on the repo was made for an iPhone 14 Pro Max.
 <img width="500" alt="Screenshot 2023-05-03 at 00 00 28" src="https://github.com/albertfares/MIT/assets/91048303/21e8f230-68fd-46d9-ae8a-90a7625ebbf0">
 
 
+# Car's view point
 
+## Streaming server
 
+To stream each car's pov, we used an esp32 cam on each car which streams continually on a custom server. The code used to enable the streaming on the boards allows to chose the quality and format of the video output. We personally went with the SVGA format and a quality of 63 (to have a fluid stream). All the videos are then combined on a streaming server which can handle up to 6 cars' povs. The code for the server and the html design are both on the repo.
 
+It looked like this:
 
+<img width="1439" alt="Screenshot 2023-06-04 at 17 28 08" src="https://github.com/albertfares/MIT/assets/91048303/599bd4b7-c59d-471f-a2c6-52deefd130a8">
 
-
+ 
